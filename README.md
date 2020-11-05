@@ -25,3 +25,8 @@ diabetes")
 
 1 ---- 268
 
+Accuracy results
+# RF Tuned:  RF: 0.919310
+# XGB Tuned:  XGB: 0.925803
+# LGBM Tuned:  LightGBM: 0.919293
+
