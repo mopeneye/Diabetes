@@ -391,3 +391,5 @@ for name, model in models:
 # LGBM Tuned:  LightGBM: 0.919293 (0.000000)
 # LGBM Best params:  {'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 500, 'num_leaves': 31}
 # jobs=-1)]: Using backend LokyBackend with 8 concurrent workers.
+
+print(mert)
